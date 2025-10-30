@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.insert(1, '../01-scripts/01-modules')
+sys.path.insert(1, '../01-scripts')
 
 from utils_encoding import run_esm, get_embedding
 from utils_model import set_seed

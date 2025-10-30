@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, '../01-scripts/01-modules')
+sys.path.insert(1, '../01-scripts')
 
 from adhunter import ADhunterSystem
 
